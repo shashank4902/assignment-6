@@ -1,0 +1,4 @@
+#multipication table of k
+num=7
+for i in range(1,11):
+   print(num,'x',i,'=',num*i)
